@@ -1,0 +1,11 @@
+section#contact-us{	background-color: #84c14a; }
+span.contact-sub-heading{ font-size: 24px; font-color:#484848; margin: 0 0 0 0; text-transform:uppercase; }
+span.contact-heading{ font-size: 32px; color: #484848; margin: 0 0 0 0; }
+.contact-info p { color:#fff; line-height: 30px; margin-top:20px; }
+#contact-us span{	display: block; }
+#contact-us ul span{ display: inline;  }
+ul#contact-us{	margin-left:0px; list-style-type: none; padding-left: 0; color: #fff;	font-size: 18px;	margin-top: 20px;	line-height: 26px; line-height:60px;}
+
+#contact-us .custom-button{	margin-bottom:40px; }
+#contact-form{	margin-top: 20px;  display: block; }
+#contact-us span.glyphicon{	font-size: 36px; vertical-align: middle; margin-bottom:10px; padding-right:15px; }

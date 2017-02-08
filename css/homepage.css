@@ -1,0 +1,84 @@
+.homepage_hero{
+	background-image: url("../images/hero_image.jpg");
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-color: #fff;
+	min-height:425px;
+	position: relative;
+	display: block;
+}
+.welcome_container{
+	display: block;
+	position: relative;
+	min-height: 440px;
+	background-image: url("../images/flag_bg.jpg");
+	background-position: top left;
+	padding-top: 53px;
+	background-repeat: no-repeat;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.welcome_copy_subheading{
+	font-size: 24px;
+	color: #fff;
+	display: block;
+}
+.welcome_copy_heading{
+	font-size: 32px;
+	color: #fff;
+	display: block;
+	margin-bottom: 20px;	
+}
+.welcome_copy{
+	color:#fff;
+	overflow: hidden;
+	display: inline-block;
+	position: relative;
+}
+.section_grad{
+	background-image: url("../images/section_grad.png");
+	background-position: bottom center;
+	background-repeat: repeat-x;
+	width: 100%;
+}
+.heading_02{
+	font-size: 20px;
+	color: #484848;
+	font-weight: 700;
+	margin: 20px 0;
+}
+.heading_02_digits{
+	font-size: 14px;
+	color: #1bb1e7;
+	font-weight: normal;
+}
+.content_nav{
+	color:#777777;
+}
+.news_list{
+	list-style-type: none;
+}
+.news_list li{
+	margin-bottom: 20px;
+}
+.news_item{
+	font-size: 20px;
+	color: #484848;
+}
+.news_item a{
+	font-size: 20px;
+	color: #484848;
+}
+a.view_more{
+	font-size: 14px;
+	color: #14b1e7;
+}
+/*
+
+a.custom_button{ display: inline-block; position: relative; padding: 15px 20px; margin-top:20px; text-transform: uppercase; border: solid 1px #fff; border-radius: 3px; }
+a.custom_button_01{ background-color: #bcee8b; color:#3d7409; }
+a.custom_button_02{ background-color: #b4b4b4; color:#484848; }
+a.custom_button_03{	background-color: #90daf4; color:#0f7192; }
+a.custom_button_04{	background-color: #b4e5f7; color:#0f7192; }
+
+*/

@@ -1,0 +1,29 @@
+.hl-hero{ background-image: url("https://placehold.it/1920x400"); background-position: top center; background-repeat: no-repeat; background-color: #fff; min-height:350px;	position: relative; display: block; }
+
+.hl-container{	background-color: #e3e4e6;}
+.hl-copy-subheading{ font-size: 24px; color: #000; display: block; padding-top: 40px; }
+.hl-copy-heading{ font-size: 32px; color: #000; display: block; margin-bottom: 20px; }
+
+.hl-containers{
+	width: 360px;
+	margin-bottom: 40px;
+	display: inline-block;
+	position: relative;
+	border: 1px solid #d6d7d8;
+	border-radius:2em;
+}
+
+.hl-title-container{
+	background-color: #fff;
+	padding:10px 10px 10px 10px; 
+	bottom: 0;
+	display: block;
+	border-top:1px solid #82c341;
+	color: #484848;
+	font-size: 14px;
+}
+.hl-title{
+	font-weight: 700;
+	font-size: 24px;
+	margin-bottom: 0px;
+}
